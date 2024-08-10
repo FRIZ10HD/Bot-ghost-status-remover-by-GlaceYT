@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Fiøra League","Fiøra League"];
 
 
 let currentIndex = 0;
